@@ -106,8 +106,8 @@ ___
 
 [github](https://github.com/)
 
-常用网站：[GitHub][]、 [Baidu][]、[Google][]
-[GitHub] :  https://github.com/
-[Baidu] :  https://www.baidu.com/
-[Google] :  https://www.google.com.hk/
+常用网站：[GitHub]、 [Baidu]、[Google]
+[GitHub]:  https://github.com/
+[Baidu]:  https://www.baidu.com/
+[Google]:  https://www.google.com.hk/
 
